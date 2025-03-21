@@ -1,17 +1,13 @@
 # Sublime Music
 
-Sublime Music is a feature-packed native GTK client for Subsonic-compatible
-servers.
+**Sublime Music has reached End-of-Maintenance**
 
-### [Sublime Music Website](https://sublimemusic.app)
-
-### [Docs](https://docs.sublimemusic.app)
+See the announcement here: http://sumnerevans.com/posts/projects/sublime-music-eom/
 
 <details>
 
 <summary>Legal information</summary>
 
-Sublime Music is a project maintained by Nevarro LLC which is owned by
-[Sumner](https://sumnerevans.com).
+Sublime Music is a project maintained by [Nevarro LLC](https://nevarro.space) which is owned by [Sumner](https://sumnerevans.com).
 
 </details>
